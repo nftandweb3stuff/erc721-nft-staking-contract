@@ -1,0 +1,23 @@
+{
+  "name": "NFTPoolContract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@ethersproject/bytes": "^5.3.0",
+    "@ethersproject/keccak256": "^5.3.0",
+    "@ethersproject/strings": "^5.3.0",
+    "ethers": "^5.3.1",
+    "solc": "^0.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

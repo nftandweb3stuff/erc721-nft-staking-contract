@@ -1,0 +1,6 @@
+node_modules/
+build
+test
+contracts/TestERC20.sol
+contracts/NFTERC721.sol
+secrets.json
